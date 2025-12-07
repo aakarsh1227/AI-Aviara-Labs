@@ -1,0 +1,3 @@
+{"question": "What is the governing law?", "expected_contains": ["governed by the laws"], "document_id": 1}
+{"question": "Does the agreement auto-renew?", "expected_contains": ["auto-renew"], "document_id": 1}
+{"question": "Define intellectual property", "expected_contains": ["intellectual property"], "document_id": 1}

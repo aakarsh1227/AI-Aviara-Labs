@@ -1,0 +1,8 @@
+[
+  {"question": "What is the purpose of this service?", "expected_keywords": ["PDF", "Q&A", "extraction"]},
+  {"question": "How do I force the rule engine?", "expected_keywords": ["force", "rule", "query param", "header"]}
+]
+
+
+
+

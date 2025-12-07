@@ -1,0 +1,13 @@
+version: '3.9'
+services:
+  app:
+    build: .
+    environment:
+      CHUNK_SIZE: 800
+      CHUNK_OVERLAP: 100
+      MAX_TOP_CHUNKS: 5
+      LOG_LEVEL: INFO
+    volumes:
+      - ./data:/app/data
+    ports:
+      - "8000:8000"

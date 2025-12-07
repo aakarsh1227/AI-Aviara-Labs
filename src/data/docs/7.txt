@@ -1,0 +1,41 @@
+Master Service Agreement (Sample)
+
+This Master Service Agreement ("Agreement") is made effective as of March 15, 2025 by and between
+Gamma Solutions Ltd., 45 Industrial Road, London, UK ("Client"), and DeltaWorks Pvt. Ltd., 101
+Innovation Drive, Bangalore, India ("Contractor").
+
+1. Services: Contractor shall provide software development, maintenance, and support services as set
+forth in individual Task Orders.
+
+2. Term: The Agreement shall commence on the Effective Date and remain in force for an initial term of
+one (1) year, thereafter automatically renewing for successive one (1) year terms unless either party
+provides written notice of non-renewal at least thirty (30) days prior to the end of the then-current term.
+
+3. Payment Terms: Client shall pay Contractor monthly within thirty (30) days of receipt of invoice. All
+amounts are in GBP and exclusive of applicable taxes. Late payments attract interest at 1.5% per
+month.
+
+4. Limitation of Liability: Except for liability arising from gross negligence, willful misconduct, or breach
+of confidentiality, each party's aggregate liability under this Agreement shall not exceed the total fees
+paid by Client to Contractor in the twelve (12) months preceding the claim.
+
+5. Indemnity: Contractor shall indemnify Client against third-party claims arising from Contractor's
+negligent acts, provided that Contractor's indemnity shall be limited to direct damages only and shall
+not cover punitive or consequential damages.
+
+6. Termination: Either party may terminate for convenience upon sixty (60) days' written notice. For
+material breach, the non-breaching party may terminate if the breach remains uncured thirty (30) days
+after written notice.
+
+7. Confidentiality: Each party agrees to protect Confidential Information as set forth in the
+Confidentiality Exhibit attached hereto.
+
+8. Governing Law: This Agreement shall be governed by the laws of England and Wales.
+
+9. Signatures: Client: Gamma Solutions Ltd. By: ______________________ Name: Richard Adams
+Title: Head of Procurement Date: ________
+
+Contractor: DeltaWorks Pvt. Ltd. By: ______________________ Name: Priya Sharma Title: Managing
+Director Date: ________
+
+
