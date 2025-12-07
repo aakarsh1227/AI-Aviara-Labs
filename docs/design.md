@@ -68,13 +68,13 @@ Client → FastAPI → Core (extract/chunk/index) → Filesystem (docs/index)
 - PII redaction counter increments on each redaction.
 
 
-## 11. Edge Cases Handled
+##  Edge Cases Handled
 - Empty corpus returns rule-based message.
 - No keywords -> message signaling that.
 - PDF extraction failure -> UTF-8 decode fallback.
 
 
-## 12. Risks
+##  Risks
 - Rebuilding index on every ingestion may not scale (optimize with incremental updates later).
 - Large PDFs could raise memory usage; consider streaming chunking.
 
